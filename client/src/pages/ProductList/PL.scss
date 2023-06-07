@@ -1,0 +1,18 @@
+.title{
+    display: flex;
+    align-items: center;
+    justify-content:flex-start;
+    .BckIcon{
+        background-color: #fff;
+        padding: 5px;
+        margin-left: 10px;
+        &:hover{
+            color: teal;
+            backdrop-filter: blur(16px) saturate(180%);
+            -webkit-backdrop-filter: blur(16px) saturate(180%);
+            background-color: rgba(221, 222, 223, 0.75);
+            border-radius: 50%;
+            border: 1px solid rgba(255, 255, 255, 0.125);
+        }
+    }
+}

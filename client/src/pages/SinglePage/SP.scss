@@ -1,0 +1,42 @@
+.removeIcon {
+  margin-right: 10px;
+  color: grey;
+  cursor: pointer;
+}
+.addIcon {
+  margin-left: 10px;
+  color: teal;
+  cursor: pointer;
+}
+.Favourte {
+  height: 30px;
+  cursor: pointer;
+  margin-bottom: 10px;
+  color: rgb(92, 90, 90);
+  border-radius: 30px;
+  padding: 5px;
+  background-color: #fd316f;
+  color: aliceblue;
+  font-weight: 500;
+}
+.VerifyBatch{
+  margin-left: 5px;
+  color: rgb(10, 158, 243);
+}
+
+.checkIcon{
+  margin-right: 5px;
+  // padding: 3px;
+  border: 2px solid green;
+  border-radius: 50%;
+  color: green;
+  font-size: 14px;
+}
+.Media{
+  margin-left: 10px;
+  margin-right: 10px;
+  background-color: #645358;
+  padding: 5px;
+  border-radius: 50%;
+  color: azure;
+}
